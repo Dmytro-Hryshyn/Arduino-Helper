@@ -25,19 +25,19 @@
 #define SlateBlue       0x6a5acd
 #define DarkSlate       0x483d8b
 #define RebeccaPurple 	0x663399
-#define Indigo  	    0x4B0082
+#define Indigo  	      0x4B0082
 #pragma endregion
 
 #pragma region Red Colors
-#define LightSalmon 	0xFFA07A	 	
-#define Salmon      	0xFA8072	 	
+#define LightSalmon   	0xFFA07A	 	
+#define Salmon      	  0xFA8072	 	
 #define DarkSalmon 	    0xE9967A	 	
-#define LightCoral  	0xF08080	 	
+#define LightCoral  	  0xF08080	 	
 #define IndianRed  	    0xCD5C5C	 	
-#define Crimson 	    0xDC143C	 	
-#define Red 	        0xFF0000	 	
+#define Crimson 	      0xDC143C	 	
+#define Red 	          0xFF0000	 	
 #define FireBrick 	    0xB22222	 	
-#define DarkRed 	    0x8B0000
+#define DarkRed 	      0x8B0000
 #pragma endregion
 
 #pragma region Orange Colors
@@ -49,13 +49,13 @@
 #pragma region 
 
 #pragma region  Yellow Colors
-#define Gold 	        0xFFD700	 	 
-#define Yellow 	        0xFFFF00	 	 
-#define LightYellow 	0xFFFFE0	 	 
-#define LemonChiffon 	0xFFFACD	 	 
+#define Gold 	           0xFFD700	 	 
+#define Yellow 	         0xFFFF00	 	 
+#define LightYellow 	   0xFFFFE0	 	 
+#define LemonChiffon 	   0xFFFACD	 	 
 #define LightGoldenRodYellow 	0xFAFAD2	 	 
 #define PapayaWhip 	    0xFFEFD5	 	 
-#define Moccasin 	    0xFFE4B5	 	 
+#define Moccasin 	      0xFFE4B5	 	 
 #define PeachPuff 	    0xFFDAB9	 	 
 #define PaleGoldenRod 	0xEEE8AA	 	 
 #define Khaki 	        0xF0E68C	 	 
@@ -64,12 +64,12 @@
 
 #pragma region Green Colors
 #define GreenYellow 	0xADFF2F	 	
-#define Chartreuse 	0x7FFF00	 	
-#define LawnGreen 	0x7CFC00	 	
+#define Chartreuse 	  0x7FFF00	 	
+#define LawnGreen 	  0x7CFC00	 	
 #define Lime 	0x00FF00	 	
-#define LimeGreen 	0x32CD32	 	
-#define PaleGreen 	0x98FB98	 	
-#define LightGreen 	0x90EE90	 	
+#define LimeGreen 	  0x32CD32	 	
+#define PaleGreen 	  0x98FB98	 	
+#define LightGreen 	  0x90EE90	 	
 #define MediumSpringGreen 	0x00FA9A	 	
 #define SpringGreen 	0x00FF7F	 	
 #define MediumSeaGreen 	0x3CB371	 	
