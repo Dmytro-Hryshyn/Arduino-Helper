@@ -1,0 +1,17 @@
+#define RemoteButt1 E318261B
+#define RemoteButt2 511DBB
+#define RemoteButt3 EE886D7F
+#define RemoteButt4 52A3D41F
+#define RemoteButt5 D7E84B1B
+#define RemoteButt6 20FE4DBB
+#define RemoteButt7 F076C13B
+#define RemoteButt8 A3C8EDDB
+#define RemoteButt9 E5CFBD7F
+#define RemoteButt0 97483BFB
+#define RemoteStar C101E57B
+#define RemoteHash F0C41643
+#define RemoteOK 488F3CBB
+#define RemoteLeft 8C22657B
+#define RemoteRight 449E79F
+#define RemoteUp 3D9AE3F7
+#define RemoteDown 1BC0157B
